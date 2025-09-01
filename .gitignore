@@ -1,4 +1,14 @@
+# Java / build outputs
 *.class
+/out/
+/bin/
+/build/
+/target/
+
+# IDEs
 .vscode/
 .idea/
+*.iml
+
+# misc
 *.log
